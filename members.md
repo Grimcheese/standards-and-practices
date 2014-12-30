@@ -53,6 +53,7 @@ Format:
 | Abdul-Raheem Tawheed| [tawrahim](https://github.com/tawrahim) | I teach kids how to program in python and am also learning ruby at the same time |
 | Adrian Wawrzak | [Adiqq](https://github.com/Adiqq) ||
 | Alan Brogan | [jalanb](https://github.com/jalanb) | I have decades of programming experience in C, C++, Java, Python. Would like to learn how to become a FOSS contributor |
+| Alby Chawula | [Grimcheese] (https://github.com/Grimcheese) | I am a CS student and know bits of C, C++, Java and Python. I want to learn more about programming and contributing to FOSS. |
 | Alex Mann | [southheat92](https://github.com/southheat92) ||
 | Alex Samide | [absamide](https://github.com/absamide) | Looking to increase knowledge beyond what the CS degree is teaching me. Minimal experience in C/C++/Java/Ruby/Python |
 | Alyssa Lambert | [alamb93](https://github.com/alamb93) | CS student with basic knowledge of Java and C++. Looking forward to increasing my knowledge. |
